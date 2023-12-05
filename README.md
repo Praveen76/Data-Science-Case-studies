@@ -16,15 +16,14 @@ In the field of Data Science, case studies play a crucial role in assessing prob
 
 ## How to Use This Repository
 
-1. Explore the folders corresponding to different case studies.
+1. Explore the different .md files corresponding to different case studies.
 2. Each case study folder contains a set of questions and comprehensive answers.
 3. Use these resources to test your problem-solving skills, gain insights into real-world scenarios, and prepare for interviews.
 
 ## Case Studies
 
-- E-commerce Customer Segmentation
-- Predictive Maintenance in Manufacturing
-- Churn Prediction for Subscription Services
+- Retail store Customer Segmentation
+- spam or ham e-mail
 - and more...
 
 Feel free to suggest additional case studies or contribute your own questions and answers.
